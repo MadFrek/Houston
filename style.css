@@ -1,0 +1,33 @@
+body {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.title {
+    font-family: sans-serif;
+    margin-top: 1.5em;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+table, th, td {
+    width: 100%;
+    border: 1px solid black;
+}
+
+/* p {
+    float: left;
+} */
+
+img {
+    float: right;
+    margin-left: 20px;
+}
+
+figcaption {
+    font-family: cursive;
+    clear: right;
+    float: right;
+}
